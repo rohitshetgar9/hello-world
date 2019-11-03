@@ -1,2 +1,6 @@
 # hello-world
-Basics to learn about git commands
+
+Hello Humans,
+
+This is Rohit M Shetgar, I am doing my master's in applied mathematics in digital media.
+
